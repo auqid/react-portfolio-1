@@ -1,0 +1,35 @@
+.container.contact__container{
+    width:25%;
+    gap: 30%;
+    
+}
+
+.contact__options{
+    display: grid;
+    gap:1rem;
+    width: 100%;
+
+}
+
+.contact__option{
+    background: var(--color-bg-variant);
+    padding: 1rem;
+    border-radius: 1rem;
+    border:1px solid transparent;
+    text-align: center;
+    transition: var(--transition);
+    gap:3rem;
+    
+}
+
+.contact__option h5{
+   font-weight: 100;
+   font-size: 0.75rem;
+}
+
+.contact__option:hover{
+    background:transparent;
+    border-color: var(--color-primary-variant);
+}
+
+

@@ -8,12 +8,12 @@
 
 .about__me{
     width: 100%;
-    aspect-ratio: 1/1;
-    border-radius: 2rem;
+    aspect-ratio: 1;
+    border-radius: 3rem;
     background: linear-gradient(
         45deg,
         transparent,
-        var(--color-primary),
+        var(--color-primary-variant),
         transparent
     );
     display: grid;
@@ -22,7 +22,7 @@
 }
 
 .about__me-image{
-    border-radius: 2rem;
+    border-radius: 1rem;
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);

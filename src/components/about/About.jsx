@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css';
-import AboutMe from '../../assets/me-about.jpg'
+import AboutMe from '../../assets/pngwing.com.png'
 import {FaAward,FaFolder} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 
@@ -23,27 +23,25 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small> &lt;1 Year</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>300+ Clients</small>
+              <small>Friends & Family</small>
             </article>
 
             <article className='about__card'>
               <FaFolder className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+</small>
+              <small>10</small>
             </article>
           </div>
           <p>
-          "People live their lives bound by what they accept as correct and true.
-           That's how they define "reality". 
-           But what does it mean to be "correct" or "true"? Merely vague concepts... 
-           Their "reality" may all be a mirage. 
-           Can we consider them to simply be living in their own world, shaped by their reality"
+          "I am someone who is just starting out with the React JavaScript library for building user interfaces. 
+      
+           My main goal as a React developer fresher is to become proficient in the library and gain a solid understanding of how to build and maintain web applications using React."
 
 
           </p>
