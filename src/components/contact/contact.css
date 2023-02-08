@@ -1,5 +1,5 @@
 .container.contact__container{
-    width:25%;
+    width:50%;
     gap: 30%;
     
 }
@@ -31,5 +31,18 @@
     background:transparent;
     border-color: var(--color-primary-variant);
 }
+
+
+/*=========== Media Queries (medium deviced tablets)================*/
+    
+@media screen and (max-width:1024px){
+    
+}
+
+/*=========== Media Queries (small devices phones)================*/
+    
+@media screen and (max-width:600px){
+    
+    }
 
 
