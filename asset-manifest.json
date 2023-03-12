@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-1/static/css/main.5bd69101.css",
+    "main.js": "/react-portfolio-1/static/js/main.e49f1b80.js",
+    "static/media/me2.png": "/react-portfolio-1/static/media/me2.76d718f7c279ef381d64.png",
+    "static/media/pngwing.com.png": "/react-portfolio-1/static/media/pngwing.com.c4a85f54751b412889d4.png",
+    "static/media/portfolio2.jpg": "/react-portfolio-1/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio1.jpg": "/react-portfolio-1/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/react-portfolio-1/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/AUQID IRFAN CV.pdf": "/react-portfolio-1/static/media/AUQID IRFAN CV.fe4044e0c3ced5dec781.pdf",
+    "index.html": "/react-portfolio-1/index.html",
+    "main.5bd69101.css.map": "/react-portfolio-1/static/css/main.5bd69101.css.map",
+    "main.e49f1b80.js.map": "/react-portfolio-1/static/js/main.e49f1b80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bd69101.css",
+    "static/js/main.e49f1b80.js"
+  ]
+}
